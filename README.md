@@ -1,9 +1,9 @@
-# CheetSheet
-Machine learning cheetsheets
+# CheatSheet
+Machine learning cheatsheets
 
 Hi All, 
 
-The collection of cheetsheet for you to practise and revise.
+The collection of cheatsheets for you to practise and revise.
 
 1. Python Basics
 2. Numpy 
